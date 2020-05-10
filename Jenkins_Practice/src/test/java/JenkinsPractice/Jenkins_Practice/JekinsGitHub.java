@@ -7,7 +7,7 @@ public class JekinsGitHub {
 	@Test
 	public void Sum()
 	{
-		System.out.println("This is Jenkins Practice");
+		System.out.println("This is change code 2Jenkins Practice");
 	}
 	
 	
